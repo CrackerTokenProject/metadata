@@ -2,7 +2,7 @@
     "name": "CRACKER",
     "symbol": "CRK",
     "description": "funny cracker token teehee",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/CrackerTokenProject/metadata/refs/heads/main/logo.png",
     "attributes": [
       {
       }
